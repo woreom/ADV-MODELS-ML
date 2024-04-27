@@ -1,0 +1,15 @@
+**/.ipynb_checkpoints
+**/__pycache__
+./datasets/
+./Final/AudioMNIST/data
+./HM/data/
+HM/data/
+./pytorch-book/test/
+./pytorch-book/train/
+./RowanDLclassNEA/
+HM/data/cifar-10-python.tar.gz
+pytorch-book/test/cifar-10-python.tar.gz
+pytorch-book/train/cifar-10-python.tar.gz
+
+# compiled python
+**/*.pyc
